@@ -10,7 +10,7 @@
     "stack": "container",
     "env": {
         "BOT_INFO": {
-            "description": "botname;ownername;ownernumber;image url",
+            "description": "―𓆩𝙏͢͡𝙝ع 𝙎𝙐𝙉𝙉𝙔 𝘽𝙐𝙏𝙏𓆪ャ³ː͢»;―𓆩𝙏͢͡𝙝ع 𝙎𝙐𝙉𝙉𝙔 𝘽𝙐𝙏𝙏𓆪ャ³ː͢»;923706837561;image url",
             "required": true,
             "value":"ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://i.imgur.com/VIpl3q5.mp4"
         },
